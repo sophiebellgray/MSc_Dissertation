@@ -18,6 +18,10 @@ The below comprises a summary of my dissertation/experimental methodology. For f
 
 
 # An Investigation of Emphasis Effects in Data Visualisations
+[Aims](#aims-of-the-research)
+[Literature Review](#literature-review)
+[Methodology](#methodology)
+[Findings/Evaluation](#findings-and-evaluation)
 
 ## Aims of The Research
 For a more detailed investigation into why these hypotheses were chosen please see full document, a summary is provided in the Literature Review section. 
