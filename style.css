@@ -1,0 +1,79 @@
+div{
+	width:75%;
+	margin:auto;
+	margin-bottom: 3cm;
+}
+
+div.question{
+	width:100%;
+	margin:auto;
+	margin-bottom: 3cm;
+}
+
+
+div.button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;  
+}
+
+header h1 {
+	color:#386150;
+	font-size:250%;
+	text-align:center;
+	padding-bottom:5px;
+	margin-bottom:-20px;
+}
+header h2 {
+	color:#58B09C;
+	font-size:150%;
+	padding-left:50px;
+	letter-spacing:-2px;
+	text-align:center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input[type="submit"]{
+  background-color: green;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size:38px;
+}
+
+input[type="submit"]:hover{
+  background-color: darkgreen;
+  font-size:48px;
+}
+
+a:link, a:visited {
+  background-color: green;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size:38px;
+}
+
+a:hover, a:active {
+  background-color: darkgreen;
+  font-size:48px;
+}
+
+label.question{
+  font-weight:bold;
+  font-size:125%;
+}
+
+label.prompt{
+  color: gray;
+}
