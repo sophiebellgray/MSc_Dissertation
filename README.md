@@ -22,7 +22,7 @@ The below comprises a summary of my dissertation/experimental methodology. For f
 [Findings/Evaluation](#findings-and-evaluation)
 
 ## Aims of The Research
-For a more detailed investigation into why these hypotheses were chosen please see full document, a summary is provided in the Literature Review section. 
+_For a more detailed investigation into why these hypotheses were chosen please see full document, a summary is provided in the [Literature Review](#literature-review) section._
 
 Hypothesis 1: Using a highlighted bar as an emphasis effect will results in faster response times from participants, compared to a standard bar chart. 
    
@@ -30,6 +30,7 @@ Hypothesis 2: Using a highlighted bar as an emphasis effect will result in more 
 
 Hypothesis 3: Using a horizontal line to replace a bar will lead to more accurate responses from participants, compared to a standard bar. 
 
+**View the full document here: [Dissertation Submission](SBG_Dissertation.pdf).**
 
 ## Literature Review
 The literature review covers related topics to the research in question. I focused on graphical literacy, data visualisation in general, bar charts specifically, visual perception and visual encoding. There is also a summary of related research. Below are some general definitions of the above terms, for detailed research please see reference list in actual submission file. HYPERLINK HERE. 
