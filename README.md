@@ -7,11 +7,9 @@
 
 <details>
       <summary>Repo Purpose</summary>
-## Dissertation Introduction
+
 The following (and files in this repository) were submitted as part of my MSc Data Science course as my final project. 
-
 The project included; PHP, SQL, Python and HTML/CSS. 
-
 The below comprises a summary of my dissertation/experimental methodology. For full submission, please see attached PDF. 
 </details>
 
