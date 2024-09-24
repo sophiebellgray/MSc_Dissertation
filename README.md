@@ -5,6 +5,15 @@
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+<details>
+      <summary>Toggle List Example</summary>
+
+        ### Heading
+        1. ABC
+        2. DEF
+           * Hello
+</details>
+
 ## Dissertation Introduction
 The following (and files in this repository) were submitted as part of my MSc Data Science course as my final project. 
 
