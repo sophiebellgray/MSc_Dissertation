@@ -40,6 +40,7 @@ Visual encoding which is the process of converting images and visual sensory inf
 ## Methodology
 The below flow chart demonstrates how the project was setup, files are available in this repository. 
 
+<img width="495" alt="Screenshot 2024-09-24 at 13 02 25" src="https://github.com/user-attachments/assets/abc8735d-8dd6-461e-bdcd-b5f307e5bbef">
 
 
 ## Findings and Evaluation
